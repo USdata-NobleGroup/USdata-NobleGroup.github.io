@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Year"
-permalink: /Years/
+permalink: /year/
 author_profile: true
 ---
 

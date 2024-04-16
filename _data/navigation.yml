@@ -1,22 +1,29 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Year"
+    url: /year/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Anatomy"
+    url: /anatomy/    
+    
+  - title: "Annotation"
+    url: /annotation/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Size"
+    url: /size/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "US Machine"
+    url: /us-machine/    
+      
+  - title: "Modality"
+    url: /modality/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Geography"
+    url: /geography/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Other Imaging"
+    url: /others/
+
+  - title: "Open Model"
+    url: /open-model/
+

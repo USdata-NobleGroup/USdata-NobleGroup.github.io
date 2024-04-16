@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "US Open Datasets / Noble Group"
+title                    : "Ultrasound Open Datasets"
 title_separator          : "-"
 name                     : &name "Noble Group"
 description              : &description "personal description"
@@ -22,12 +22,12 @@ repository               : "USdata-NobleGroup/USdata-NobleGroup.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Noble Group"
   pronouns         : # example: "she/her"  
   bio              : "This website records open source ultrasound (US) datasets collected by Noble Group."
   location         : "UK"
   employer         : "University of Oxford"
-  uri              : # URL
+  uri              : "https://eng.ox.ac.uk/biomedical-image-analysis/noble-group/"
   email            : "none@example.org" 
 
 #   # Academic websites

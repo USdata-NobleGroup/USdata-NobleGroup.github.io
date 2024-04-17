@@ -21,7 +21,7 @@ repository               : "USdata-NobleGroup/USdata-NobleGroup.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "7077957.png"
+  avatar           : "7077958.png"
   name             : "Noble Group"
   pronouns         : # example: "she/her"  
   bio              : "This website records open source ultrasound (US) datasets collected by Noble Group."
